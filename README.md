@@ -1,7 +1,5 @@
 # Repo-Baseline
 
-![CI Status](https://github.com/yurii-holovko/Repo-Baseline/actions/workflows/ci.yml/badge.svg)
-
 A robust Python 3.14 project template featuring automated linting, formatting, and CI/CD.
 
 ## Getting Started
@@ -13,7 +11,7 @@ A robust Python 3.14 project template featuring automated linting, formatting, a
 ### Installation
 1. **Clone the repository**:
 ```bash
-git clone [https://github.com/yurii-holovko/Repo-Baseline.git](https://github.com/yurii-holovko/Repo-Baseline.git)
+git clone https://github.com/yurii-holovko/Repo-Baseline.git
 cd Repo-Baseline
 ```
 
