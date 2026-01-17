@@ -1,6 +1,6 @@
 # Repo-Baseline
 
-A robust Python 3.14 project template featuring automated linting, formatting, and CI/CD.
+A robust Python 3.14 project template featuring automated linting and formatting.
 
 ## Getting Started
 
