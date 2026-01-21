@@ -9,8 +9,4 @@ check:
 	black .
 	isort .
 	flake8 .
-	pytestcheck:
-	black .
-	isort .
-	flake8 .
 	pytest
